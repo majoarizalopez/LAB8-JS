@@ -8,6 +8,45 @@ console.log(name);
 console.log(age);
 //Q2 //
 
+// STRING //
+let name1 = "Maria";
+
+// NUMBER //
+
+let age1 = 18
+
+// BOOLEAN //
+
+let isStudent = false;
+
+// UNDEFINED //
+
+let job;
+
+// NULL //
+
+let car = null;
+
+// OBJECT // 
+
+let person = {
+    Firstname1: "Maria",
+    lastName: "Ariza",
+    age: 25
+}; 
+
+// ARRAY //
+
+let colors = ["red", "green", "blue"];
+
+console.log("String:", name1);
+console.log("Number:", age);
+console.log("Boolean:", isStudent);
+console.log("Undefined:", job);
+console.log("Null:", car);
+console.log("Object:", person);
+console.log("Array:", colors);
+
 let RollNumber = 15;
 if (RollNumber > 10){
 
